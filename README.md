@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sohamkan
-- 👀 
-- 🌱 
+- 🌱 Environmental Engineer wasting time on GitHub
 - 📫 How to reach me email: sohamkanvinde@gmail.com
 
 <!---
